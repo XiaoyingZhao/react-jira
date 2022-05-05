@@ -1,6 +1,8 @@
-import { ProjectListScreen } from "./projectList";
+// import { ProjectListScreen } from "./projectList";
+import { LoginScreen } from "./login";
 function App() {
-  return <ProjectListScreen />;
+  return <LoginScreen />;
+  // return <ProjectListScreen />;
 }
 
 export default App;
